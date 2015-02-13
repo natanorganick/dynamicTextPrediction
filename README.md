@@ -1,8 +1,8 @@
 Dynamic Text Prediction
-Natan Organick
-Senior Project
+<br>Natan Organick
+<br>Senior Project
 
-2/13/15
-done initial data extraction
-preliminary text cleaning
-preliminary checking of bigrams/trigrams
+<br>2/13/15
+<br>done initial data extraction
+<br>preliminary text cleaning
+<br>preliminary checking of bigrams/trigrams
